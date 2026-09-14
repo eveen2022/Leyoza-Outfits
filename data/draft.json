@@ -1,0 +1,20 @@
+{
+  "number": "",
+  "date": "2026-09-14",
+  "customer": "",
+  "address": "",
+  "phone": "",
+  "itemType": "Custom T-Shirts",
+  "designs": "",
+  "fulfillment": "Store Pickup",
+  "delivery": 0,
+  "discount": 0,
+  "items": [
+    {
+      "description": "",
+      "detail": "",
+      "qty": 1,
+      "price": 0
+    }
+  ]
+}
